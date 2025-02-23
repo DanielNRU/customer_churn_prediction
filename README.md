@@ -179,7 +179,7 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, CatBoost, LightGBM, Optuna, SHAP, 
 2. **Запустить Docker‑контейнер:**
 
    ```bash
-   docker run --gpus all -p 8000:8000 -p 7860:7860 danielnru/customer_churn_prediction:latest
+   docker run -p 8000:8000 -p 7860:7860 danielnru/customer_churn_prediction:latest
    ```
 
    Это запустит контейнер в фоновом режиме, и ваше приложение будет доступно по адресу `http://localhost:7860`.
