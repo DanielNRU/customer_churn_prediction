@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td width="120"><img src="https://adengi.ru/public/img/adengi.d878d1f.svg" width="100" alt="A Деньги Logo"></td>
+<td width="120"><img src="https://habrastorage.org/getpro/moikrug/uploads/company/100/008/504/9/logo/medium_ca7bfaa26d0e35a743ed5b8a9d0c8a12.png" width="100" alt="A Деньги Logo"></td>
 <td>
 <b>Заказчик:</b> <a href="https://adengi.ru">А Деньги</a> — российская микрофинансовая организация, предоставляющая займы онлайн.
 </td>
