@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td width="120"><img src="https://adengi.ru/public/img/adengi.d878d1f.svg" width="100" alt="A Деньги Logo"></td>
+<td width="120"><img src="https://adengi.ru/public/img/adengi.d878d1f.svg" width="80" alt="Pollen Club Logo"></td>
 <td>
 <b>Заказчик:</b> <a href="https://adengi.ru">А Деньги</a> — российская микрофинансовая организация, предоставляющая займы онлайн.
 </td>
